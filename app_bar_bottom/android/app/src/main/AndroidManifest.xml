@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.app_bar_bottom">
    <application
-        android:label="app_bar_bottom"
+        android:label="Inbox Messages"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
