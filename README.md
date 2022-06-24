@@ -8,4 +8,4 @@
 
 - Access To Bottom Navigation drawer
 
-- Screebs with 2 or five actions
+- Screens with 2 or five actions
